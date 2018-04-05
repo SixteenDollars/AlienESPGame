@@ -1,0 +1,350 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8105424A2071DE570096E854 /* 04 Walk It Talk It (feat. Drake).m4a in Resources */ = {isa = PBXBuildFile; fileRef = 810542492071DE570096E854 /* 04 Walk It Talk It (feat. Drake).m4a */; };
+		810DAC5F205B2E130013329E /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 810DAC5E205B2E130013329E /* RootViewController.m */; };
+		810DAC62205B57230013329E /* CardManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 810DAC61205B57230013329E /* CardManager.m */; };
+		812C937E204D0F6B000680D1 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 812C937D204D0F6B000680D1 /* ThirdViewController.m */; };
+		81F76D0B204B1A8900D4C64F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 81F76D0A204B1A8900D4C64F /* main.m */; };
+		81F76D0E204B1A8900D4C64F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 81F76D0D204B1A8900D4C64F /* AppDelegate.m */; };
+		81F76D11204B1A8900D4C64F /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81F76D10204B1A8900D4C64F /* FirstViewController.m */; };
+		81F76D14204B1A8900D4C64F /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 81F76D13204B1A8900D4C64F /* SecondViewController.m */; };
+		81F76D17204B1A8900D4C64F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81F76D15204B1A8900D4C64F /* Main.storyboard */; };
+		81F76D19204B1A8900D4C64F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81F76D18204B1A8900D4C64F /* Assets.xcassets */; };
+		81F76D1C204B1A8900D4C64F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81F76D1A204B1A8900D4C64F /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		810542492071DE570096E854 /* 04 Walk It Talk It (feat. Drake).m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "04 Walk It Talk It (feat. Drake).m4a"; sourceTree = "<group>"; };
+		810DAC5D205B2E130013329E /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
+		810DAC5E205B2E130013329E /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
+		810DAC60205B57230013329E /* CardManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CardManager.h; sourceTree = "<group>"; };
+		810DAC61205B57230013329E /* CardManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CardManager.m; sourceTree = "<group>"; };
+		812C937C204D0F6B000680D1 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		812C937D204D0F6B000680D1 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
+		81F76D06204B1A8900D4C64F /* AlienESP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlienESP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		81F76D0A204B1A8900D4C64F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		81F76D0C204B1A8900D4C64F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		81F76D0D204B1A8900D4C64F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		81F76D0F204B1A8900D4C64F /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		81F76D10204B1A8900D4C64F /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		81F76D12204B1A8900D4C64F /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		81F76D13204B1A8900D4C64F /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		81F76D16204B1A8900D4C64F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		81F76D18204B1A8900D4C64F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		81F76D1B204B1A8900D4C64F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		81F76D1D204B1A8900D4C64F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		81F76D03204B1A8900D4C64F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		81F76CFD204B1A8900D4C64F = {
+			isa = PBXGroup;
+			children = (
+				81F76D08204B1A8900D4C64F /* AlienESP */,
+				81F76D07204B1A8900D4C64F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		81F76D07204B1A8900D4C64F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				81F76D06204B1A8900D4C64F /* AlienESP.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		81F76D08204B1A8900D4C64F /* AlienESP */ = {
+			isa = PBXGroup;
+			children = (
+				81F76D15204B1A8900D4C64F /* Main.storyboard */,
+				81F76D0C204B1A8900D4C64F /* AppDelegate.h */,
+				81F76D0D204B1A8900D4C64F /* AppDelegate.m */,
+				810DAC5D205B2E130013329E /* RootViewController.h */,
+				810DAC5E205B2E130013329E /* RootViewController.m */,
+				81F76D0F204B1A8900D4C64F /* FirstViewController.h */,
+				81F76D10204B1A8900D4C64F /* FirstViewController.m */,
+				81F76D12204B1A8900D4C64F /* SecondViewController.h */,
+				81F76D13204B1A8900D4C64F /* SecondViewController.m */,
+				812C937C204D0F6B000680D1 /* ThirdViewController.h */,
+				812C937D204D0F6B000680D1 /* ThirdViewController.m */,
+				810542492071DE570096E854 /* 04 Walk It Talk It (feat. Drake).m4a */,
+				81F76D18204B1A8900D4C64F /* Assets.xcassets */,
+				81F76D1A204B1A8900D4C64F /* LaunchScreen.storyboard */,
+				81F76D1D204B1A8900D4C64F /* Info.plist */,
+				81F76D09204B1A8900D4C64F /* Supporting Files */,
+				810DAC60205B57230013329E /* CardManager.h */,
+				810DAC61205B57230013329E /* CardManager.m */,
+			);
+			path = AlienESP;
+			sourceTree = "<group>";
+		};
+		81F76D09204B1A8900D4C64F /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				81F76D0A204B1A8900D4C64F /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		81F76D05204B1A8900D4C64F /* AlienESP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 81F76D20204B1A8900D4C64F /* Build configuration list for PBXNativeTarget "AlienESP" */;
+			buildPhases = (
+				81F76D02204B1A8900D4C64F /* Sources */,
+				81F76D03204B1A8900D4C64F /* Frameworks */,
+				81F76D04204B1A8900D4C64F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AlienESP;
+			productName = AlienESP;
+			productReference = 81F76D06204B1A8900D4C64F /* AlienESP.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		81F76CFE204B1A8900D4C64F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = nyu.edu;
+				TargetAttributes = {
+					81F76D05204B1A8900D4C64F = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = NJQHW8DM8Y;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 81F76D01204B1A8900D4C64F /* Build configuration list for PBXProject "AlienESP" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 81F76CFD204B1A8900D4C64F;
+			productRefGroup = 81F76D07204B1A8900D4C64F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				81F76D05204B1A8900D4C64F /* AlienESP */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		81F76D04204B1A8900D4C64F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				81F76D1C204B1A8900D4C64F /* LaunchScreen.storyboard in Resources */,
+				81F76D19204B1A8900D4C64F /* Assets.xcassets in Resources */,
+				81F76D17204B1A8900D4C64F /* Main.storyboard in Resources */,
+				8105424A2071DE570096E854 /* 04 Walk It Talk It (feat. Drake).m4a in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		81F76D02204B1A8900D4C64F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				810DAC62205B57230013329E /* CardManager.m in Sources */,
+				81F76D14204B1A8900D4C64F /* SecondViewController.m in Sources */,
+				81F76D0E204B1A8900D4C64F /* AppDelegate.m in Sources */,
+				810DAC5F205B2E130013329E /* RootViewController.m in Sources */,
+				81F76D11204B1A8900D4C64F /* FirstViewController.m in Sources */,
+				81F76D0B204B1A8900D4C64F /* main.m in Sources */,
+				812C937E204D0F6B000680D1 /* ThirdViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		81F76D15204B1A8900D4C64F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				81F76D16204B1A8900D4C64F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		81F76D1A204B1A8900D4C64F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				81F76D1B204B1A8900D4C64F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		81F76D1E204B1A8900D4C64F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		81F76D1F204B1A8900D4C64F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		81F76D21204B1A8900D4C64F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NJQHW8DM8Y;
+				INFOPLIST_FILE = AlienESP/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "x12345543210-yahoo.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		81F76D22204B1A8900D4C64F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NJQHW8DM8Y;
+				INFOPLIST_FILE = AlienESP/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "x12345543210-yahoo.com";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		81F76D01204B1A8900D4C64F /* Build configuration list for PBXProject "AlienESP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				81F76D1E204B1A8900D4C64F /* Debug */,
+				81F76D1F204B1A8900D4C64F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		81F76D20204B1A8900D4C64F /* Build configuration list for PBXNativeTarget "AlienESP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				81F76D21204B1A8900D4C64F /* Debug */,
+				81F76D22204B1A8900D4C64F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 81F76CFE204B1A8900D4C64F /* Project object */;
+}
